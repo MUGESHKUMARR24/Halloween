@@ -3,3 +3,5 @@ This project analyzes a Halloween-themed dataset using data visualization techni
 It explores visitor trends, activity preferences, and yearly variations.
 Interactive charts and dashboards are created to identify key patterns and insights.
 The project demonstrates practical data analysis and visualization skills using Tableau.
+
+https://public.tableau.com/app/profile/mugeshkumar.r/viz/Assign03-1/HalloweenEventParticipationVisitorAnalysis?publish=yes
